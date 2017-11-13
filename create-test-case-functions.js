@@ -15,7 +15,7 @@
 function createTestCase(testId, testName, testHint, testFunction) {
   // Constructs the following HTML using jQuery:
   //
-  // <a data-toggle="collapse"
+  //<a data-toggle="collapse"
   //    href="#test-case-initialize"
   //    class="list-group-item list-group-item-action list-group-item-danger">
   //   <span>Initialize Firebase Application</span>
